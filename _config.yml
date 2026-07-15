@@ -1,2 +1,4 @@
 title: "Online IDE"
 description: "A browser-based integrated development environment that lets you write, run, and share code without installing anything locally."
+theme: jekyll-theme-cayman
+show_downloads: false
